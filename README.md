@@ -1,8 +1,8 @@
-# biticker ![biticker](http://i.imgur.com/Dq1A2d1.png)
+# bitickers ![bitickers](http://i.imgur.com/Dq1A2d1.png)
 
 Simple cross-platform Electron app to check bitcoin price. It currently takes BTC price from blockchain.info public API, new sources and currencies will be added soon.
 
-![biticker screenshot](http://i.imgur.com/2BiS55J.png)
+![bitickers screenshot](http://i.imgur.com/l55d90E.png)
 
 ## To-do list
 - [x] First simple version source code
@@ -24,7 +24,7 @@ Download and install the [latest node release](https://nodejs.org/en/download/).
 Electron Prebuilt binaries and debug symbols of Electron for Linux, Windows and macOS can
 be found on the [releases](https://github.com/electron/electron/releases) page.
 
-You can also use [`npm`](https://docs.npmjs.com/) to install prebuilt electron binaries:
+You can also use [npm](https://docs.npmjs.com/) to install prebuilt electron binaries:
 
 ```sh
 # Install the `electron` command globally in your $PATH
@@ -34,10 +34,10 @@ npm install electron -g
 npm install electron --save-dev
 ```
 
-### Run biticker
+### Run bitickers
 ```sh
 # Extract downloaded Github zip file and enter folder
-cd pathToDownloadFolder/biticker-master
+cd pathToDownloadFolder/bitickers-master
 electron .
 ```
 That's it!
