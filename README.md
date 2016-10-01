@@ -14,7 +14,7 @@ Simple cross-platform Electron app to check bitcoin price. It currently takes BT
 > No official ETA for this tasks to be completed, this is just a simple app created for fun, feel free to collaborate 😉
 
 ## Dependencies and installation
-bitcker requires [Node.js](https://nodejs.org/) (which comes with npm) installed on your computer and Electron to run.
+bitickers requires [Node.js](https://nodejs.org/) (which comes with npm) installed on your computer and Electron to run.
 ### Node.js
 Download and install the [latest node release](https://nodejs.org/en/download/). If you already have node installed, just check that you're running the latest version:
 
